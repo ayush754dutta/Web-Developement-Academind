@@ -1,0 +1,31 @@
+p{
+    background-color:azure;
+}
+
+#sample{
+    background-color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#sample-font{
+    font-weight: bold;
+    background-color: white;
+}
+
+
+#sample{
+  font-family: "Playwrite DK Loopet", cursive;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+
+#image{
+    border-radius: 50%;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(201,204,25);
+    margin: 30px;
+}
